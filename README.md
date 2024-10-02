@@ -1,5 +1,7 @@
 # Usage
 
+Copy or symlink `aws_utils.fish` to `~/.config/fish/functions/`
+
 ## codeartifact-login
 
 config.fish:
