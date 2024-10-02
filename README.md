@@ -29,5 +29,5 @@ Function will set the following environment variables:
 
 ## ecr-login
 ```shell
-
+ecr-login -p someprofile -u 12345678910.dkr.ecr.us-east-1.amazonaws.com
 ```
