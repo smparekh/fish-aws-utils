@@ -30,4 +30,9 @@ Function will set the following environment variables:
 ## ecr-login
 ```shell
 ecr-login -p someprofile -u 12345678910.dkr.ecr.us-east-1.amazonaws.com
+Logging in <SSO_URL>
+# you can pass in -n to skip sso login and just awsume profile
+Login succeeded, valid until 2024-10-02 17:58 EDT
+[<someprofile>] Role credentials will expire 2024-10-02 15:56:21
+Login Succeeded
 ```
